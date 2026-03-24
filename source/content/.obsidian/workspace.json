@@ -11,14 +11,10 @@
             "id": "c49c8349aafac568",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Warmaster.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Warmaster"
+              "title": "Nowa karta"
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Warmaster.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Linki zwrotne do Warmaster"
+              "title": "Linki zwrotne"
             }
           },
           {
@@ -113,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Warmaster.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Łącza wychodzące od Warmaster"
+              "title": "Łącza wychodzące"
             }
           },
           {
@@ -142,13 +136,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Warmaster.md",
+                "file": "Images/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt Warmaster"
+              "title": "Konspekt index"
             }
           }
         ]
@@ -171,13 +165,13 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "c49c8349aafac568",
+  "active": "b77831b90dd9f87b",
   "lastOpenFiles": [
+    "Images/Some note.md",
+    "Images/sword_emblem.png",
+    "Images/index.md",
     "Warmaster.md",
     "Images/wh_map.jpg",
-    "Images/sword_emblem.png",
-    "Images/Some note.md",
-    "Images/index.md",
     "Images"
   ]
 }
