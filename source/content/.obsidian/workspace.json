@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Warmaster.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Warmaster"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Warmaster.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Linki zwrotne do index"
+              "title": "Linki zwrotne do Warmaster"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Warmaster.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Łącza wychodzące od index"
+              "title": "Łącza wychodzące od Warmaster"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md",
+                "file": "Warmaster.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt index"
+              "title": "Konspekt Warmaster"
             }
           }
         ]
@@ -173,12 +173,14 @@
   },
   "active": "c49c8349aafac568",
   "lastOpenFiles": [
-    "Warmaster.md",
     "index.md",
+    "Images/wh_map2.png",
+    "Images/k64419c3noda1.png",
+    "Images/wh_map.jpg",
+    "Warmaster.md",
     "Images/index.md",
     "Images/Some note.md",
     "Images/sword_emblem.png",
-    "Images/wh_map.jpg",
     "Images"
   ]
 }

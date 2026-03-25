@@ -1,5 +1,98 @@
 {
-  "mapMarkers": [],
+  "mapMarkers": [
+    {
+      "id": "Map-map",
+      "locked": true,
+      "lastAccessed": 1774451397480,
+      "markers": [
+        {
+          "id": "ID_f859aa4b884a",
+          "type": "Battle",
+          "loc": [
+            883.2993750191919,
+            660.9018541627622
+          ],
+          "layer": "Images%2Fwh_map2.png",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_7969d91b1a7a",
+          "type": "default",
+          "loc": [
+            843.37102290159,
+            625.375
+          ],
+          "layer": "Images%2Fwh_map2.png",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_da58ab4b89a9",
+          "type": "Battle",
+          "loc": [
+            838.1197911966938,
+            629.875
+          ],
+          "layer": "Images%2Fwh_map2.png",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_f8ab19799b09",
+          "type": "Battle",
+          "loc": [
+            861.7874838377031,
+            676.5244129002293
+          ],
+          "layer": "Images%2Fwh_map2.png",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_78aae89a1aba",
+          "type": "Battle",
+          "loc": [
+            872.0429376372558,
+            677.2315196814159
+          ],
+          "layer": "Images%2Fwh_map2.png",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Warmaster.md"
+      ]
+    }
+  ],
   "defaultMarker": {
     "type": "default",
     "iconName": "map-marker",
@@ -8,9 +101,28 @@
       "size": 6,
       "x": 0,
       "y": -2
-    }
+    },
+    "isImage": false
   },
-  "markerIcons": [],
+  "markerIcons": [
+    {
+      "type": "Battle",
+      "iconName": "map-marker",
+      "color": "#dddddd",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": true,
+      "imageUrl": "data:image/png;base64,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",
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    }
+  ],
   "color": "#dddddd",
   "lat": 39.983334,
   "long": -82.98333,
@@ -29,8 +141,8 @@
   "configDirectory": null,
   "mapViewEnabled": true,
   "mapViewParameters": {},
-  "enableDraw": true,
-  "defaultUnitType": "imperial",
+  "enableDraw": false,
+  "defaultUnitType": "metric",
   "defaultTile": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
   "defaultTileDark": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
   "defaultAttribution": "&copy; <a href=\"https://www.openstreetmap.org/copyright\">OpenStreetMap</a> contributors &copy; <a href=\"https://carto.com/attributions\">CARTO</a>",
