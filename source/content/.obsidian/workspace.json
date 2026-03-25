@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Warmaster.md",
-                "mode": "preview",
+                "file": "index.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Warmaster"
+              "title": "index"
             }
           }
         ]
@@ -171,13 +171,14 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "c49c8349aafac568",
+  "active": "b77831b90dd9f87b",
   "lastOpenFiles": [
+    "Warmaster.md",
+    "index.md",
     "index.md",
     "Images/wh_map2.png",
     "Images/k64419c3noda1.png",
     "Images/wh_map.jpg",
-    "Warmaster.md",
     "Images/index.md",
     "Images/Some note.md",
     "Images/sword_emblem.png",
